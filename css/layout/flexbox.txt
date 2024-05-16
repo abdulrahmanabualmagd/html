@@ -1,0 +1,21 @@
+Flexbox:
+
+    - Flexbox is a one-dimensional layout model designed for laying out items within a container along a single direction (either horizontally or vertically).
+    - It provides properties for distributing space among items, aligning items, and controlling the order of items.
+    - Flexbox is particularly useful for creating dynamic layouts that adapt to different screen sizes and orientations.
+    - Properties like flex-direction, justify-content, align-items, and flex play key roles in flexbox layouts.
+
+
+Code:
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .item {
+        flex: 1;
+        height: 100px;
+        background-color: #ccc;
+        margin: 5px;
+    }
