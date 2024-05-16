@@ -1,0 +1,7 @@
+1. id       : any unique identifier (string)
+2. class    : one or more class names separated by spaces (string)
+3. src      : URL of the resource (string)
+4. href     : URL of the link destination (string)
+5. alt      : alternative text for images (string)
+6. title    : additional information (string)
+7. style    : inline CSS styles (string)
